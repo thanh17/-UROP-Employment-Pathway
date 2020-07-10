@@ -1,0 +1,5 @@
+Plot other jobs onto engineers
+	-median split
+Plot tools and skills 
+PLot Tasks
+Djikstra's with given task matrix

@@ -57,7 +57,7 @@ Technical Change, how were the 8 catgories determined in relation to the 20ish s
 	Do that for each skill set?
 TECHNOLOGY SKILLS/ TOOLS:
 	defnitely a union
-	Commodity Code and Family Code:
+	Commodity Code Class Code and Family Code:
 		This can be used to see which tools lie in the same family...which I think can be used to transfer one's skills
 	Example:
 		20100000: Mining and quarrying machinery and equipment family 	

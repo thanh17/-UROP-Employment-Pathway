@@ -85,3 +85,18 @@ Experts
 
 Career changers matrix
 	Djikstra's
+	pg 46-54 details the exact process they went through
+	rank 1 == most closely resembles job	
+	Related occupations rank: 
+		based on different Descriptors for Starters vs. Change
+	Starter:
+		Abilities (level/importance)
+		Interests
+		Work Styles
+		Work Values
+	Change:
+		Work Context
+		Knowledge
+		Skills
+		GWAs (Generalized Work Activities)
+		Job Zones

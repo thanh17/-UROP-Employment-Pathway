@@ -2,7 +2,7 @@
 
 MIT J-WEL project on employment pathways of the future.
 
-## Data
+### Data
 
 All data from the project was stored using MySQL. Data sources were drawn from O\*NET and can be downloaded in the zip [file](https://github.com/thanhn1756/-UROP-Employment-Pathway/blob/master/db_24_3_mysql.zip.).
 
@@ -33,6 +33,8 @@ The main visualization tools used were [Plotly](https://plotly.com/) and [matplo
 
 
 ### Questions/Comments/Concerns:
+
+(Yes, I know that some of the code are not the cleanest but it works for the time being)
 
 Email: thanh_n@mit.edu
 

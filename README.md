@@ -1,4 +1,4 @@
-# -UROP-Employment-Pathway
+# UROP-Employment-Pathway
 
 MIT J-WEL project on employment pathways of the future.
 

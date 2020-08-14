@@ -2,16 +2,16 @@
 
 MIT J-WEL project on employment pathways of the future.
 
-### Data
+## Data
 
 All data from the project was stored using MySQL. Data sources were drawn from O\*NET and can be downloaded in the zip [file](https://github.com/thanhn1756/-UROP-Employment-Pathway/blob/master/db_24_3_mysql.zip.).
 
 
-### Analysis
+## Analysis
 
 Analysis was done using [Jupyter Notebook](https://github.com/thanhn1756/-UROP-Employment-Pathway/tree/master/Python%20notebooks). 
 
-#### Notebook Contents
+### Notebook Contents
 
 Demographic data: [AgesandWages.ipynb](https://github.com/thanhn1756/-UROP-Employment-Pathway/blob/master/Python%20notebooks/Ages%20and%20Wages.ipynb)
 
@@ -21,7 +21,7 @@ Comparison of Skills: [SkillTransitions.ipynb](https://github.com/thanhn1756/-UR
 
 Other Notebooks: Random stuff and descriptive statistics are contained in other Notebooks...feel free to poke around, I guess. 
 
-#### Packages used:
+### Packages used:
 
 [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html): Pandas Dataframe objects were used to manipulate data for visualization and analysis  
 

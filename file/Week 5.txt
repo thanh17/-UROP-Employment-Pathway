@@ -1,0 +1,31 @@
+SKills:
+
+Look deeper into skills that differ
+-Matthias. Work with him on that. 
+
+Read papers
+
+-Toward understanding the impact of artificial
+intelligence on labor
+	Wages/edu (JZ): not always the best indication
+	Specific Task: cognitive, physical, etc. 
+	ONET's problem: "installation" computer programmer == plumbers...but very different in 
+		reality
+		Regional dependency? How to show?
+
+SkillScape:
+	Transitions via closeness of mapping of nodes/ jobs. 
+		Similar to what ONET did except different algorithm...but what skills are neccessary == still unanswered
+
+Skill Gap:Ask if there's anything useful found 
+ 	still reading 
+
+JPLink: On Linking Jobs to Vocational Interest Types:
+
+
+
+Retail
+
+
+
+

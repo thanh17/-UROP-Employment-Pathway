@@ -1,0 +1,14 @@
+Week 2
+
+Semantic mapping vs keyword
+
+Automation. Matthias (== Ma-tee - as)
+
+To do:
+
+Send PDF (done)
+
+Look at a different path cost heuristic with the least number of nodes AND distance (done)
+
+Look at their algorithm and replicate (done but wrong?)
+
